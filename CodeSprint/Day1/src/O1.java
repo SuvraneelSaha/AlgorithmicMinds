@@ -13,6 +13,6 @@ public class O1 {
 
         System.out.println("The newly created array is ");
         System.out.println(Arrays.toString(arr));
-
+        System.out.println("Nigga");
     }
 }
